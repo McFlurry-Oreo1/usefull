@@ -2,7 +2,7 @@
 
 ## 🔍 Search Engines
 
-* [Google](https://www.google.com)
+* [Google](https://eye-yourself-future-sources.trycloudflare.com/)
 * [Bing](https://www.bing.com)
 * [DuckDuckGo](https://duckduckgo.com)
 * [Yahoo Search](https://search.yahoo.com)
